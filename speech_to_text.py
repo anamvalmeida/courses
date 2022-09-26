@@ -1,5 +1,5 @@
 """
-    Speech To Text Below Code
+    Speech To Text
 
 Region: au-syd
 APIKEY: 3ThtNSt_oufTloiyDxBlZUPfkLhwEkV3IkdSpLKlblVm
