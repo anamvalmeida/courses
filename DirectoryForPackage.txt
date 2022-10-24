@@ -1,0 +1,1 @@
+Directory: C:\Users\Ana\AppData\Local\Programs\Python\Python310\Lib\site-packages\python_package
